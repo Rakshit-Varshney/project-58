@@ -1,0 +1,34 @@
+body {
+text-align:center;
+  color:white;
+background: green;
+}
+.menu { 
+    list-style: none;
+  font-family:cursive;
+  float:right;
+
+    cursor: pointer;
+   top:  10px;
+}
+li{
+    display: inline;
+}
+li a:hover {
+  background-color: red;
+}
+.favorite{
+    margin-top: 50px;
+    background: red;
+}
+
+.hobby{
+    background: black;
+}
+.My-hobby{
+    font-family: 'Hanalei Fill', cursive;
+    
+}
+.header{
+    height: 10px;
+}
